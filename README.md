@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Saiprasad Valanju 👋
 
-<!--
-**Saifollowme/Saifollowme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Associate Director focused on Payments, Financial Operations, AI, Automation and Solution Acceleration.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming business ideas into working prototypes, accelerators and reusable solutions that drive efficiency, innovation and measurable business value.
+
+## Areas of Interest
+
+- Payments & Financial Services
+- Financial Reconciliation
+- AI-Assisted Operations
+- Agentic Workflows
+- Business Analysis & Product Strategy
+- Data & Process Automation
+- Operational Analytics
+
+## Featured Work
+
+### Financial Reconciliation Accelerator
+
+A prototype demonstrating:
+
+- Automated Reconciliation
+- Exception Management
+- AI-Assisted Investigation
+- Human-in-the-Loop Governance
+- Auditability & Traceability
+- Operational Analytics
+
+## Current Focus
+
+- AI-Powered Accelerators
+- Financial Operations Modernization
+- Intelligent Workflow Automation
+- Reusable Assets for Banking & Payments
